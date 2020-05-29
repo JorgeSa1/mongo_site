@@ -1,5 +1,16 @@
+ Descrição do Sistema
 
- 
+ <---------------------- Objetivo-------------------->
+
+ Este sistema está sendo desenvolvido com o própósito de se
+ ser um Template para futuros desenvolvimentos em NODEJS.
+ Servirá de base para futuras aplicações como o próprio nome
+ sujere "starter". 
+ Bastando para o desenvolvedor modificar a lógia, deletar o 
+ que não é necessário para a sua finalidade e utilizar o que
+ melhor lhe convém.
+
+ <----------------->//<---------------->
  
  
  cd xampp\htdocs\mongo_testes path 
